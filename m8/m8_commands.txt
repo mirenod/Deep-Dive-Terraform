@@ -46,6 +46,7 @@ http://127.0.0.1:8080
 # Definition: Pipeline script from SCM
 # SCM: Git
 # Repo URL: YOUR_REPO_URL or https://github.com/ned1313/Deep-Dive-Terraform.git
+https://github.com/mirenod/Deep-Dive-Terraform.git
 # Script path: m8/networking/Jenkinsfile
 # Uncheck lightweight checkout
 
